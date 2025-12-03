@@ -108,7 +108,7 @@ Key settings can be modified in `src/config.py`:
 
 ## 📚 Educational Resources
 
-Check out the [Educational Notebook](notebooks/Educational_Notebook.ipynb) for:
+Check out the [Educational Notebook](Educational_Notebook.ipynb) for:
 - Deep learning fundamentals
 - CNN architecture explained
 - Step-by-step implementation guide
